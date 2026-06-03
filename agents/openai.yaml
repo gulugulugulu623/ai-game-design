@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI game design"
+  short_description: "Plan GDDs, project docs, and visual QA gates"
+  default_prompt: "Use $ai-game-design to draft pre-development GDD, project management docs, and implementation-ready split docs for this game."
